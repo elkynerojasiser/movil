@@ -1,1 +1,2 @@
 Este es el cambio que realicé en la rama auxiliar
+Este es otro cambio para explicar pull request
